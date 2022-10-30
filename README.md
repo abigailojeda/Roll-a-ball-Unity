@@ -23,9 +23,7 @@ Visual Studio 2019
 
 ## 👁️‍🗨️ Preview
 
-
-embed_youtube("J-t9_S7MOeo")
-
+[preview video](https://youtu.be/J-t9_S7MOeo)
 
 
  🙋🏻‍♀️ [Abigail Ojeda Alonso](https://es.linkedin.com/in/abigail-ojeda)
