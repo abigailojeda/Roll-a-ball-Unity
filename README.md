@@ -23,8 +23,15 @@ Visual Studio 2019
 
 ## 👁️‍🗨️ Preview
 
+```{r setup, include=FALSE}
+library(vembedr)
+knitr::opts_chunk$set(echo = TRUE)
+```
 
+```{r}
 embed_youtube("J-t9_S7MOeo")
+```
+
 
 
 
