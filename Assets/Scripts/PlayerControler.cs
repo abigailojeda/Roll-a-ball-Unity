@@ -14,7 +14,7 @@ public class PlayerControler : MonoBehaviour
     public TMP_Text countText;
     public float speed;
     private Rigidbody rb;
-    public GameObject backButton;
+ 
 
 
     private float movementX;
@@ -55,7 +55,7 @@ public class PlayerControler : MonoBehaviour
         else
         {
             countText.text = "You win!! :) " + count.ToString() + "/10";
-            backButton.SetActive(true);
+      
 
         }
 
