@@ -9,7 +9,7 @@ The game has two levels that can be selected in a menu, and consists of collecti
 
 Create a folder for the project and run
 
-git clone https://github.com/abigailojeda/FullStackIonicExpress.git .
+git clone https://github.com/abigailojeda/Roll-a-ball-Unity.git .
 
 With the "." at the end you specify that you want the project to be cloned into that folder, and not create a new folder to clone itself.
 
